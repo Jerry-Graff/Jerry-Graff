@@ -1,5 +1,6 @@
-### Hi there, my names Kieran 👋
-## Currently a student studying software engineering with Hyperion Dev
+## Hi there, my names Kieran 👋
+### Education 
+Currently a student studying software engineering with Hyperion Dev
 
 | Rank | Languages |
 |-----:|-----------|
