@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there, my names Kieran 👋
+## Currently a student studying software engineering with Hyperion Dev
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| HTML      |
+
+---
+> technology is best when it bring people together.
+
+— Matt Mullenweg
+
+
+
+
+
 
 <!--
 **Jerry-Graff/Jerry-Graff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
