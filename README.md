@@ -1,4 +1,4 @@
-## Dia duit! My name's Kieran. I am a software developer and artist 👋
+## Dia duit! My name's Kieran. I'm a software developer and artist 👋
 
 <h3 align="left">Education:</h3>
 Recent graduate from Imperial College London / Hyperion Dev having undertook a NQF level 5 diploma in software development!
