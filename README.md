@@ -15,16 +15,6 @@ Recent graduate from Imperial College London / Hyperion Dev having undertook a N
 </p>
 
 
----
-> technology is best when it brings people together.
-
-— Matt Mullenweg
-
-
-
-
-
-
 <!--
 **Jerry-Graff/Jerry-Graff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
